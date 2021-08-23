@@ -13,7 +13,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="30sp"
             android:layout_marginHorizontal="50sp"
-            android:background="#E8E8E8"
+            android:background="@drawable/custom_input"
             android:inputType="textEmailAddress"
             android:hint="@string/email_address"
             android:textColor="@color/black"
@@ -32,7 +32,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="30sp"
             android:layout_marginHorizontal="50sp"
-            android:background="#E8E8E8"
+            android:background="@drawable/custom_input"
             android:inputType="textPassword"
             android:textColor="@color/black"
             android:hint="@string/password"
@@ -48,24 +48,24 @@
         android:layout_marginStart="50sp"
         android:layout_marginTop="16sp"
         android:text="@string/forgot_password"
-        android:textColor="#FA4A0C"
+        android:textColor="#000000"
         android:textSize="17sp"
         android:textStyle="bold" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_marginBottom="24sp"
         android:layout_marginHorizontal="50sp"
-        android:text="@string/login"
-        android:textSize="17sp"
-        android:padding="15dp"
-        android:textAlignment="center"
+        android:layout_marginBottom="24sp"
         android:background="@drawable/login_button_background"
+        android:padding="15dp"
+        android:text="@string/login"
+        android:textAlignment="center"
         android:textAllCaps="false"
         android:textColor="@color/white"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:textSize="17sp" />
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/loginAnimation"

@@ -100,7 +100,7 @@
             android:textSize="19sp"
             android:textStyle="bold"
             android:textAlignment="center"
-            android:textColor="@color/orange"
+            android:textColor="@color/PrimaryColor"
 
             />
     </LinearLayout>
@@ -110,7 +110,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="32dp"
-        android:backgroundTint="#FA4A0C"
+        android:backgroundTint="#1FCC79"
         android:paddingVertical="16dp"
         android:text="@string/order_now_button"
         android:textSize="17sp"

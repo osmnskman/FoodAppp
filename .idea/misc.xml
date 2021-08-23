@@ -8,6 +8,51 @@
         <entry key="..\:/Users/irem.dogan/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/layout/fragment_restaurant_add.xml" value="0.14402173913043478" />
         <entry key="..\:/Users/irem.dogan/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/layout/fragment_restaurant_detail.xml" value="0.121875" />
         <entry key="..\:/Users/irem.dogan/AndroidStudioProjects/FoodDeliveryApp/app/src/main/res/layout/item_meal.xml" value="0.121875" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable-v24/custom_input.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/bottom_nav_color.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/brightness_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/chevron_left_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/circle.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/circle_image.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/color_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/cuisine_button_text_color.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/custom_circle_layout.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/edit_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/ic_add.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/ic_home.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/ic_repeat_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/ic_share.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/login_button_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/profile_button_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/profile_photo_background.xml" value="0.12777777777777777" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/drawable/rounded_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/activity_splash.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_first_onboarding.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_login.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_login_and_signup.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_meal_add.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_meal_details.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_meals_list.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_onboarding.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_order.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_profile.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_restaurant_add.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_restaurant_detail.xml" value="0.1" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_restaurant_details_section.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_restaurant_listing.xml" value="0.1" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_second_onboarding.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_signup.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_splash.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/fragment_third_onboarding.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/item_ingredient_card.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/item_ingredient_check.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/item_meal.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/item_myorders.xml" value="0.6" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/layout/restaurant_item_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/workpc/StudioProjects/FoodAppp/app/src/main/res/mipmap-anydpi-v26/bank_card.xml" value="0.1388888888888889" />
         <entry key="..\:/Users/workpc/StudioProjects/FoodDeliveryApp/app/src/main/res/drawable-v24/ic_back.xml" value="0.2703125" />
         <entry key="..\:/Users/workpc/StudioProjects/FoodDeliveryApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
         <entry key="..\:/Users/workpc/StudioProjects/FoodDeliveryApp/app/src/main/res/drawable/bottom_nav_color.xml" value="0.2703125" />

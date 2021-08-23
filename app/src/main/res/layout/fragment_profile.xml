@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="24dp"
                 android:text="@string/change"
-                android:textColor="#FA4A0C"
+                android:textColor="#673AB7"
                 android:textSize="15sp" />
         </LinearLayout>
 

@@ -2,7 +2,7 @@
     <string name="app_name">FoodDeliveryApp</string>
 
     <!--Restaurant listing screen strings -->
-    <string name="restaurant_listing_title">Delicious\nfood for you</string>
+    <string name="restaurant_listing_title">Enjoy Delicious Food</string>
     <string name="search_view_text">Search in All</string>
     <string name="all_restaurants">All</string>
 
