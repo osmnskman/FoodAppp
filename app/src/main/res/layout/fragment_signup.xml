@@ -81,7 +81,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_marginHorizontal="50sp"
-        android:layout_marginBottom="100sp"
+        android:layout_marginBottom="24sp"
         android:background="@drawable/login_button_background"
         android:padding="15dp"
         android:text="@string/sign_up"
